@@ -54,7 +54,7 @@ That's it. Database is created and stored in the form of .json files automatical
 | Admin (NDRF) | `admin@ndrf.gov.in` | `admin123` |
 | Citizen | `rahul@citizen.in` | `citizen123` |
 
-**Admin** can broadcast alerts, update incident status, and manage shelter occupancy.
+**Admin** can broadcast alerts, update incident status, and manage shelter occupancy...
 
 ---
 
@@ -151,7 +151,7 @@ npm run dev   # uses nodemon
 - Shelters in Delhi, Mumbai, Chennai, Odisha, J&K, Assam, Uttarakhand, Gujarat
 - Emergency numbers: 112, NDRF, 101, 108, 1077, IMD hotline
 - Indian states dropdown in all forms
-
+- 
 ---
 
 ## 📞 Emergency Contacts
