@@ -43,7 +43,7 @@ npm start
 
 Open **http://localhost:3000**
 
-That's it. The SQLite database is created automatically with Indian demo data on first run.
+That's it. Database is created and stored in the form of .json files automatically with Indian demo data on first run.
 
 ---
 
