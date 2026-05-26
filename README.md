@@ -17,7 +17,7 @@ A real-time disaster monitoring and coordination platform built for India. Citiz
 | 🔔 **Emergency Alerts** | Admin can broadcast alerts; citizens see live ticker |
 | 🤖 **AI Safety Guide** | Rule-based chatbot in **English & Hindi** for disaster guidance |
 | 🔐 **Authentication** | Register/Login with roles (admin vs citizen) |
-| 📱 **PWA** | Installable on mobile, works offline (cached assets) |
+| 📱 **PWA** | Installable on mobile, works offline, and system application available (cached assets) |
 
 ---
 
